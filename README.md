@@ -18,9 +18,9 @@
    - Creación de una tabla para jugar al juego del hunde la flota.
    - Uso de POO con herencias y sobrecargas de métodos.
 
-4. **proyecto-3**: [Gestión de productos]
+4. **proyecto-4**: [Gestión de productos]
    - Creación de una pequeña aplicación que conecta con una base de datos, este añade, modifica o elimina u producto si el usuario de ha podido registrar con éxito.
-   - Uso de una clase conexión para conectar con la base de datos, manejo de formularios, jsp y servlets.
+   - Uso de una clase conexión para conectar con la base de datos, manejo de formularios, jsp y servlets. La base de datos utilizada está en el directorio de la aplicación.
 
 
 (Más proyectos vendrán... 🚀)
